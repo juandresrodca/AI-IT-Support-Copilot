@@ -15,3 +15,7 @@ This project is an AI-powered IT support assistant that helps diagnose and resol
 
 ## Use Case
 Designed to simulate real service desk workflows and reduce resolution time for IT engineers.
+## How to deploy 
+Please download the repo and add your OpenAI API key to your .env file 
+After that, open your command prompt, navigate to the project folder, and run the following command: streamlit run app.py
+Your companion will be initialized on your localhost.
